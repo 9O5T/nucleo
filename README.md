@@ -1,2 +1,2 @@
 # nucleo
-!(images/nuclearphysics.png)
+![](images/nuclearphysics.png)
