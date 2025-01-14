@@ -1,0 +1,3 @@
+ Initial energy of alpha particle:   4000000.00     eV
+ Final energy of alpha particle:   188965.859     eV
+ Energy change:   3811034.25     eV

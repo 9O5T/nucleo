@@ -1,0 +1,5 @@
+Alfa saçılması, yüksek enerjili alfa parçacıklarının (helyum çekirdekleri) bir madde ile etkileşime girerek yön değiştirmesi olayıdır. Bu süreçte, alfa parçacıkları maddenin atom çekirdeklerine yakın geçtiklerinde çekirdeklerin pozitif elektrik yüklerinden dolayı Coulomb kuvvetiyle saptırılırlar. 
+
+Bu fenomen, Ernest Rutherford'un 1909 yılında gerçekleştirdiği ünlü altın folyo deneyinde ayrıntılı olarak incelenmiştir. Rutherford, ince bir altın folyoya alfa parçacıkları gönderdiğinde çoğunun folyo içinden geçip az bir sapma gösterdiğini, ancak çok az bir kısmının büyük açılarla geri saptığını gözlemledi. Bu gözlemler, atomun büyük kısmının boşluk olduğunu ve pozitif yüklü çekirdeğin çok küçük bir hacimde yoğunlaştığını ortaya koydu. 
+
+Alfa saçılması, atomik ve nükleer yapının anlaşılmasında temel bir deneysel yöntem olarak kabul edilir ve atom modellerinin geliştirilmesinde önemli bir rol oynamıştır. Bu etkileşim, nükleer fizik ve malzeme bilimi gibi alanlarda da önemli uygulamalara sahiptir.

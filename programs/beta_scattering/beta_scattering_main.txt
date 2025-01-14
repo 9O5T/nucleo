@@ -1,0 +1,7 @@
+Beta scattering refers to the process by which beta particles, which are high-energy electrons or positrons emitted from radioactive nuclei during beta decay, interact with matter. This interaction typically involves the deflection or scattering of the beta particles as they pass through a material.
+
+In a basic sense, when a beta particle encounters an atom in a material, it can interact with the atomic electrons through electromagnetic forces. These interactions can cause the beta particle to change direction and lose energy, leading to scattering.
+
+Beta scattering can occur through various mechanisms, including Coulomb scattering, in which the beta particle is deflected by the electric fields of atomic nuclei, and Møller scattering, which involves the interaction of a beta particle with an atomic electron resulting in both particles being scattered.
+
+The study of beta scattering has applications in nuclear physics, material science, and medical imaging, as understanding how beta particles interact with matter is crucial for various technological and scientific endeavors.

@@ -1,0 +1,12 @@
+nucleo : Calculation has started.
+Initial state ::
+	Gold: 20 protons, 20 neutrons
+	probable decay type = calculated
+	mass 37221.26990514535 MeV | (39.958679181127685 u)
+After beta decay ::
+	Gold: 21 protons, 19 neutrons
+	probable decay type = beta_minus
+	mass 37235.42562130103 MeV | (39.97387596839167 u)
+Emitted particle: electron
+Energy released: -14.155716 MeV (-14155716.16 eV)
+New state: 21 protons, 19 neutrons, mass 37235.425621 MeV

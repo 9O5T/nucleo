@@ -1,0 +1,5 @@
+Number of Proton              :
+Number of Neutron             :
+Number of Protons - Daughter  :
+Number of Neutrons - Daughter :
+tab
