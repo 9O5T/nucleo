@@ -1,3 +1,2 @@
 # nucleo
-
-![lion.png]
+![images/nuclearphysics.png]
